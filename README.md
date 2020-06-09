@@ -1,6 +1,6 @@
 # CSS-Framework-Task
 
-Task guidelines for second weekly project.
+Task guidelines for second class task.
 
 **Dated: 10th June 2020**
 
